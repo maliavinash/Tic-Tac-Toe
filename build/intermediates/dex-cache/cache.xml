@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Avinash\.android\build-cache\0f57f4e19f92540f114bb0c8cae49def1d37797a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f5d23793df1e17be9a5ca6b9f2046ce27b563060">
+        <dex dex="C:\Users\Avinash\AndroidStudioProjects\Connect3\app\build\intermediates\pre-dexed\debug\classes_46127398686e82d212a4db6b63b227eaabb50241.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Avinash\.android\build-cache\dbb7dd55c0504c57b6639d4baaa6f9e178e66af8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\Avinash\AndroidStudioProjects\Connect3\app\build\intermediates\pre-dexed\debug\classes_6aa9bd02b75df0228e584cfd30fc64e135f5f976.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Avinash\.android\build-cache\a8e859be97c593f25f35564f3d7af7165a8f1b64\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Avinash\AndroidStudioProjects\Connect3\app\build\intermediates\pre-dexed\debug\classes_31d6389ed3fe385f0579681244245bfbcc859a81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Avinash\.android\build-cache\64dc1877145596c5241b267bfd42ae19dcf34b9d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\Avinash\AndroidStudioProjects\Connect3\app\build\intermediates\pre-dexed\debug\classes_e5714336a69121347e9e50cce964eb6a36666379.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Avinash\.android\build-cache\5155918cd60102369647210c83bc4b96ef64c17a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\Avinash\AndroidStudioProjects\Connect3\app\build\intermediates\pre-dexed\debug\classes_9c0bb53432dc37cd6f1d5d3f7e15a3e9aafcba6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Avinash\.android\build-cache\396af75c8c6658dfcef0a824960a2af0d10b87ec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\Avinash\AndroidStudioProjects\Connect3\app\build\intermediates\pre-dexed\debug\classes_6bec5a8688b4d687fca5429eafee9f80a3091bd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\Avinash\AndroidStudioProjects\Connect3\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_72d3553a60b0a144fe1bb3d2e87be35588f6a6be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Avinash\.android\build-cache\29bc798b55a565b520cea5a2456dee0e77d3972e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\Avinash\AndroidStudioProjects\Connect3\app\build\intermediates\pre-dexed\debug\classes_ef703e3093e8a341babdc8e8f1ccb65a03b5dbb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Avinash\AndroidStudioProjects\Connect3\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_2e3f7bbba17c57096a48cc2ed6b539464ef724d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Avinash\.android\build-cache\5aa2570176c59c87cf14db702024e00261497443\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\Avinash\AndroidStudioProjects\Connect3\app\build\intermediates\pre-dexed\debug\classes_75835a164b4e01a80163410805bd10a8ead9b169.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Avinash\.android\build-cache\f2382eb7f04cf7927c4b9228c79dc2d3fc4febff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\Avinash\AndroidStudioProjects\Connect3\app\build\intermediates\pre-dexed\debug\classes_b227a77e3a3b85e5b7338ca9a6860b020340c8a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Avinash\.android\build-cache\410babd6d300e9658cf8c16bec1d7f89353e5364\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\Avinash\AndroidStudioProjects\Connect3\app\build\intermediates\pre-dexed\debug\classes_a72a9b5ac9a6e6a0709f1c5552fe00aaa2a3d048.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Avinash\.android\build-cache\2218eb00cc0d481394e2d849f2b786f3bc1553a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Avinash\AndroidStudioProjects\Connect3\app\build\intermediates\pre-dexed\debug\classes_096cd4364c4aec05bc86c0b8a189d46340641798.jar" />
+    </item>
+
+</items>
